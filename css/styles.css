@@ -450,8 +450,8 @@ img {
     fill: #AFB1B8;
 }
 
-.clients-icon:hover,
-.clients-icon:focus {
+.clients-list-link:hover .clients-icon,
+.clients-list-link:focus .clients-icon {
     fill: var(--accent-color);
 
 }
